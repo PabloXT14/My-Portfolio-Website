@@ -19,5 +19,5 @@ Conteúdo de Referência para construção do portfólio [link](https://www.yout
 
 ## ⚙ Settings
 * Para executar o projeto basta rodar o arquivo index em algum browser
-* Ou acessar: https://pabloxt14.github.io/Landing-Page/
+* Ou acessar: https://pabloxt14.github.io/My-Portfolio-Website/
 * Obs: a página está responsiva, então pode executá-la até mesmo no celular
